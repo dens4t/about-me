@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deni</h1>
+<h1 align="center">Hi 👋, I'm Deni Satria</h1>
 <h3 align="center">A passionate backend developer from Pontianak, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=densat98&label=Profile%20views&color=0e75b6&style=flat" alt="densat98" /> </p>
